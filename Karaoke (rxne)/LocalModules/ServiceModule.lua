@@ -3,7 +3,7 @@
 
 -- Usage Example:
 -- local Services = require(<ServiceModule>)
--- local Workspace = Services.w
+-- local Workspace = Services.W
 
 return {
   SG = game:GetService("StarterGui"),
